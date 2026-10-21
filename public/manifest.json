@@ -1,0 +1,9 @@
+{
+  "name": "ShackMath — HAM Radio RF Engineering Workbench",
+  "short_name": "ShackMath",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#f59e0b",
+  "description": "Complete RF Math & Engineering Calculators for Amateur Radio Operators"
+}
